@@ -47,18 +47,6 @@ The project focuses on delivering a modern UI/UX with smooth animations, respons
 - Hover animations
 - Modern card layouts
 
-## 💰 Pricing
-- Tattoo pricing information
-- Consultation details
-- Custom design pricing
-
-## ⭐ Why Choose Us
-- Experienced Tattoo Artists
-- Custom Designs
-- Sterile Environment
-- Premium Equipment
-- Professional Service
-
 ## 📞 Contact
 - Contact Form
 - Google Maps Location
@@ -116,23 +104,6 @@ Fully optimized for:
 
 ---
 
-# 📂 Project Structure
-
-```text
-Tattoo-Studio/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── videos/
-└── README.md
-```
-
----
-
 # ▶️ Getting Started
 
 ## Clone Repository
@@ -159,9 +130,9 @@ No installation required.
 
 - Home
 - About Studio
-- Tattoo Categories
-- Gallery
-- Pricing
+- Artist
+- Services
+- Galary
 - Contact
 
 ---
@@ -200,24 +171,3 @@ Full Stack Web Developer
 
 ---
 
-# 📬 Contact
-
-📧 Email: mithulvikashs@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com
-
-🐙 GitHub:
-https://github.com/mithulvikashs-s
-
----
-
-# ⭐ If you like this project
-
-Please give this repository a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
